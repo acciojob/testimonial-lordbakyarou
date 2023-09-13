@@ -8,13 +8,16 @@
 
 .testimonials{
 	box-shadow: 0px  0px 1px 0px black;
-	
 	background-color:white;
 }
 
-p{
+.italic{
 	background-color:white;
 	text-align:right;
 	font-style:italic;
 	
+}
+
+.normal{
+	background-color:white;
 }
